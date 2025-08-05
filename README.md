@@ -2,8 +2,6 @@
 
 A modern React application that demonstrates personalized nutrition and fitness recommendations based on user health data and DNA analysis. This prototype showcases advanced UI/UX design with smooth animations and responsive layouts.
 
-![Omagie App Preview](https://placehold.co/800x400/6366f1/ffffff?text=Om![Omagie App Preview](./assets/you# Omagie - AI-Powered DNA-Based Personalized Nutrition App
-
 A modern React application...
 ## 📸 Screenshots
 
@@ -13,18 +11,6 @@ A modern React application...
 ![Your Personalized Results Page](./assets/urpersonalizedresults1.png)![Your Personalized Results Page](./assets/urpersonalizedresults2.png)
 ![Your Personalized Results Page](./assets/urpersonalizedresults3.png)
 =======
-## 📸 Screenshots
-
-![Home Page](assets/Screenshot_1.png)
-![Upload Your DNA Page](assets/UploadYourDNAData.png)
-![Your Personalized Results Page](assets/urpersonalizedresults1.png)![Your Personalized Results Page](assets/urpersonalizedresults2.png)
-![Your Personalized Results Page](assets/urpersonalizedresults3.png)
->>>>>>> e4aa08e (Move assets folder to root directory)
-
-
-
-## 🌟 Features
-...r-screenshot.png)agie+App+Screenshot)
 
 ## 🌟 Features
 
@@ -158,7 +144,7 @@ This is a portfolio project, but contributions are welcome! Please feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Copyright (c) 2025 [Your Full Name Here]**
+**Copyright (c) 2025 [Damla BİLGİÇ]**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
