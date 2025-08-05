@@ -5,6 +5,7 @@ A modern React application that demonstrates personalized nutrition and fitness 
 ![Omagie App Preview](https://placehold.co/800x400/6366f1/ffffff?text=Om![Omagie App Preview](./assets/you# Omagie - AI-Powered DNA-Based Personalized Nutrition App
 
 A modern React application...
+## 📸 Screenshots
 
 ![Home Page](./assets/Screenshot_1.png)
 ![Upload Your DNA Page](./assets/UploadYourDNAData.png)
@@ -133,20 +134,6 @@ This application demonstrates modern web design principles:
 - **Push Notifications**: Reminders for nutrition and fitness goals
 - **Offline Support**: Progressive Web App capabilities
 - **Performance Optimization**: Code splitting and lazy loading
-
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](https://via.placeholder.com/400x300/6366f1/ffffff?text=Dashboard+View)
-
-### Nutrition Recommendations
-![Nutrition](https://via.placeholder.com/400x300/10b981/ffffff?text=Nutrition+Panel)
-
-### Fitness Tracking
-![Fitness](https://via.placeholder.com/400x300/3b82f6/ffffff?text=Fitness+Tracking)
-
-### DNA Analysis
-![DNA](https://via.placeholder.com/400x300/8b5cf6/ffffff?text=DNA+Analysis)
 
 ## 🤝 Contributing
 
