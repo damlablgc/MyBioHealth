@@ -7,10 +7,19 @@ A modern React application that demonstrates personalized nutrition and fitness 
 A modern React application...
 ## 📸 Screenshots
 
+<<<<<<< HEAD
 ![Home Page](./assets/Screenshot_1.png)
 ![Upload Your DNA Page](./assets/UploadYourDNAData.png)
 ![Your Personalized Results Page](./assets/urpersonalizedresults1.png)![Your Personalized Results Page](./assets/urpersonalizedresults2.png)
 ![Your Personalized Results Page](./assets/urpersonalizedresults3.png)
+=======
+## 📸 Screenshots
+
+![Home Page](assets/Screenshot_1.png)
+![Upload Your DNA Page](assets/UploadYourDNAData.png)
+![Your Personalized Results Page](assets/urpersonalizedresults1.png)![Your Personalized Results Page](assets/urpersonalizedresults2.png)
+![Your Personalized Results Page](assets/urpersonalizedresults3.png)
+>>>>>>> e4aa08e (Move assets folder to root directory)
 
 
 
